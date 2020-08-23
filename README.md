@@ -1,4 +1,10 @@
 # url-shortner
-An application which reduces the length of URL using npm package 'shorthash', tracks the details such as clicked date and time, IP address, Browser details, OS type and device type. This helps the users to keep track of activities on his website such as no.of clicks and other informations which helps to improve the quality and content.
+This is a small feature that I made, where it converts a regular URL into its 
+condensed format. 
 
-#Dependencies
+
+# Dependencies
+1. express
+2. mongoose
+3. nodemon 
+4. shorthash
