@@ -4,10 +4,10 @@ condensed format.
 
 
 # Dependencies
-1. express
-2. mongoose
-3. nodemon
-4. shorthash
+1. `express`
+2. `mongoose`
+3. `nodemon`
+4. `shorthash`
 
 
 # Usage
